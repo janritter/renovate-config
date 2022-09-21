@@ -33,7 +33,8 @@
             ],
             "addLabels": [
                 "major"
-            ]
+            ],
+            "semanticCommitType": "fix"
         },
         {
             "matchUpdateTypes": [
@@ -48,7 +49,8 @@
             "addLabels": [
                 "minor"
             ],
-            "groupName": "minor packages"
+            "groupName": "minor packages",
+            "semanticCommitType": "fix"
         },
         {
             "matchManagers": [
@@ -66,7 +68,8 @@
             "addLabels": [
                 "minor"
             ],
-            "groupName": "minor go packages"
+            "groupName": "minor go packages",
+            "semanticCommitType": "fix"
         },
         {
             "matchManagers": [
