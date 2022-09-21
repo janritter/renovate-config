@@ -47,7 +47,7 @@
             "addLabels": [
                 "minor"
             ],
-            "groupName": "minor package updates"
+            "groupName": "minor packages"
         },
         {
             "matchManagers": [
@@ -65,7 +65,7 @@
             "addLabels": [
                 "minor"
             ],
-            "groupName": "minor go package updates"
+            "groupName": "minor go packages"
         },
         {
             "matchManagers": [
