@@ -98,7 +98,8 @@
             "addLabels": [
                 "minor"
             ],
-            "groupName": "minor circleci"
+            "groupName": "minor circleci",
+            "semanticCommitType": "chore"
         }
     ]
 }
