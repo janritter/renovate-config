@@ -81,6 +81,24 @@
             "schedule": [
                 "on monday before 8am"
             ]
+        },
+        {
+            "matchManagers": [
+                "circleci"
+            ],
+            "matchUpdateTypes": [
+                "minor",
+                "patch",
+                "pin",
+                "digest",
+                "lockFileMaintenance",
+                "rollback",
+                "bump"
+            ],
+            "addLabels": [
+                "minor"
+            ],
+            "groupName": "minor circleci"
         }
     ]
 }
