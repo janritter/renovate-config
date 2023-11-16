@@ -26,6 +26,9 @@
     "labels": [
         "renovate"
     ],
+    "npm": {
+        "minimumReleaseAge": "3 days"
+    },
     "packageRules": [
         {
             "matchUpdateTypes": [
